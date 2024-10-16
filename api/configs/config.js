@@ -1,6 +1,5 @@
 require("dotenv").config()
 
-
 module.exports = {
     s3Client: {
         region: process.env.DATAREGION,
