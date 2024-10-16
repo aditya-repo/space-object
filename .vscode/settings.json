@@ -2,9 +2,5 @@
     "files.exclude": {
         "node_modules": true,
         "package-lock.json": true,
-        // "package.json": true,
-        "config.js": true,
-        "index.js": true,
-        "speed.js": true
     }
 }
