@@ -1,7 +1,6 @@
 .env
 node_modules/
 package-lock.json
-index.js
 speed.js
-downloads/
 input/
+downloads/
